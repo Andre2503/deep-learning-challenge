@@ -34,7 +34,7 @@
 
 ## Challenges and Improvements
 - **Classification Complexity**: The model's learning may be impacted by the reduction from 45 classification types and 17 application categories to simpler forms.
-- **Parameter Tuning**: Despite using various parameters to enhance model accuracy, the highest accuracy achieved was 0.7268, using Keras Tuner for hyperparameter optimization.
+- **Parameter Tuning**: Despite using various parameters to enhance model accuracy, the highest accuracy achieved was 0.7244.
 
 ## Suggestions for Model Improvement
 - **Hyperparameter Optimization**: Utilize optimization techniques like grid search or random search to find the best combination of hyperparameters.
